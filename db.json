@@ -19,7 +19,7 @@
     { "id": 17, "subject": "Post 17", "requested-date": "05/04/2018", "latest-date": "06/04/2018", "status": "Resolved" },
     { "id": 18, "subject": "Post 18", "requested-date": "05/04/2018", "latest-date": "06/04/2018", "status": "Active" },
     { "id": 19, "subject": "Post 19", "requested-date": "05/04/2018", "latest-date": "06/04/2018", "status": "Cancel" },
-    { "id": 20, "subject": "Post 20", "requested-date": "05/04/2018", "latest-date": "06/04/2018", "status": "Active" },
+    { "id": 20, "subject": "Post 20", "requested-date": "05/04/2018", "latest-date": "06/04/2018", "status": "Active" }
   ],
   "profile": {
     "name": "tqlinh90"
